@@ -1,6 +1,8 @@
-teks 1
+TEKS ABC
 
-teks 2
-teks 3
-teks 4
-teks 5
+Javascript
+* ES6
+* Framework Javascript
+PHP Frameworks
+Interview
+Vlogs
