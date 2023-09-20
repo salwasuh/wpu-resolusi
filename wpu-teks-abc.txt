@@ -1,8 +1,9 @@
 TEKS ABC
 
-Javascript
+- Javascript
 * ES6
 * Framework Javascript
-PHP Frameworks
-Interview
-Vlogs
+- Struktur Data Dasar
+- PHP Frameworks
+- Interview
+- Vlogs
