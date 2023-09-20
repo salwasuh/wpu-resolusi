@@ -3,9 +3,11 @@ TEKS ABC
 - Javascript
 * ES6
 * Framework Javascript
-  ^ Angular
+  ^ Vue
   ^ React
+- Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
 - Interview
 - Vlogs
+- Python
